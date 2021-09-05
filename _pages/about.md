@@ -16,29 +16,16 @@ social: true  # includes social icons at the bottom of the page
 
 ## biography
 
-I am an incoming PhD student in the Department of [Industrial Engineering and Operations Research (IEOR)](https://www.ieor.columbia.edu/) at [Columbia University](https://www.columbia.edu/). Previously, I obtained an MS in Statistics from the School of [Industrial and Systems Engineering (ISyE)](https://www.isye.gatech.edu/) at [Georgia Tech](https://www.gatech.edu/), where I was fortunate to work with [Prof. Siva Theja Maguluri](https://sites.google.com/site/sivatheja/)  and  [Prof. Debankur Mukherjee](https://www.debankur-mukherjee.com/). I also obtained an MS in [Mathematics](https://math.gatech.edu/) from Georgia Tech, advised by [Prof. Michael Damron](http://people.math.gatech.edu/~mdamron6/). 
+I am a first year PhD student in the Department of [Industrial Engineering and Operations Research (IEOR)](https://www.ieor.columbia.edu/) at [Columbia University](https://www.columbia.edu/). Previously, I obtained an MS in Statistics from the School of [Industrial and Systems Engineering (ISyE)](https://www.isye.gatech.edu/) at [Georgia Tech](https://www.gatech.edu/), where I was fortunate to work with [Prof. Siva Theja Maguluri](https://sites.google.com/site/sivatheja/)  and  [Prof. Debankur Mukherjee](https://www.debankur-mukherjee.com/). I also obtained an MS in [Mathematics](https://math.gatech.edu/) from Georgia Tech, advised by [Prof. Michael Damron](http://people.math.gatech.edu/~mdamron6/). 
 
 Before Georgia Tech, I joined a leading Fintech startup, [360 DigiTech, Inc.](https://ir.360shuke.com/corporate/corporate-profile) which was later listed on NASDAQ with code QFIN, as one of the founding team members in 2016 at the age of 19. Working with the Chief Data Scientist and the Chief Risk Officer, and as a machine learning engineer, I applied cutting-edge techniques to attack challenging problems arising in risk management and marketing. While working full-time in Shanghai, China, I studied part-time by myself, took a sequence of exams, and received a BEcon in Economics from East China Normal University and a GradDip in Mathematics with distinction from the University of London.  
 
 ## interests and projects
 
-I am broadly interested in applied probability and optimization with applications to machine learning. More specifically, I am interested in:
+I am broadly interested in applied probability and optimization with applications to machine learning. For example, I am interested in:
 - analysis of stochastic systems 
 - non-smooth, non-convex optimization theory
-
-Ongoing research projects:
-- transient analysis of load balancing systems, joint work with Prakirt Raj Jhunjhunwala and Siva Theja Maguluri
-- operator norm of random matrices, joint work with Debankur Mukherjee and Souvik Dhara
-
-Selected PhD level courses at Georgia Tech:
-- stochastics: stochastic processes, [stochastic calculus](https://people.math.gatech.edu/~mdamron6/teaching/Fall_2019/Math_7244/index.html), and probabilistic combinatorics
-- statistics: theoretical statistics, [linear statistical models](https://doi.org/10.1017/CBO9780511546822), multivariate analysis, and testing statistical hypotheses
-- analysis: real analysis and functional analysis ([basis theory](https://www.springer.com/gp/book/9780817646868)) 
-- reading course in [high-dimensional probability](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.pdf) with [Prof. Vladimir Koltchinskii](https://math.gatech.edu/people/vladimir-koltchinskii)
-- others: computational statistics, [reading group](https://docs.google.com/document/d/1sRq7foYxyH34-UJ0gpsoHF5zICkexnMIaKu5cpnzZxU/) in [reinforcement learning](https://www.dropbox.com/sh/chwb7j1keeyide1/AAB0SDqVaD1qm2Ji9id3jF3ea?dl=0), and linear optimization 
-
-
-
+ 
 
 
 
