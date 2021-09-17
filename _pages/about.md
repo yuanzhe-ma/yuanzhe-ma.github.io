@@ -7,7 +7,7 @@ description:
 profile:
   align: right
   image: Yuanzhe-picture.jpg
-  address: yuanzhe.ma[at]columbia[dot]edu
+  address: ym2865@columbia.edu
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
