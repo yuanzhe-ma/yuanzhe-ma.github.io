@@ -2,24 +2,50 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+description: 
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: Yuanzhe-picture.jpg
+  address: ym2865@columbia.edu, Room 416 (Data Science Institute), Mudd Building, 500 W 120th St, New York
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## biography
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a second-year PhD student in the Department of [IEOR](https://www.ieor.columbia.edu/) at [Columbia University](https://www.columbia.edu/). I am very fortunate to work with [Garud Iyengar](http://www.columbia.edu/~gi10/), [Jay Sethuraman](https://www.ieor.columbia.edu/faculty/jay-sethuraman), and [Hongseok Namkoong](https://hsnamkoong.github.io/). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am broadly interested in problems related to online marketplaces from an operational perspective. More specifically, my goal is to develop scalable data-driven tools helping online platforms make better decisions in the presence of network effects and strategic information transmission. 
+
+I am also interested in making machine learning models more robust and computationally efficient.
+
+From 2019 to 2021, I spent two wonderful years at [Georgia Tech ISyE](https://www.isye.gatech.edu/) as a graduate student studying statistics and mathematics while working with [Siva Theja Maguluri](https://sites.google.com/site/sivatheja/), [Debankur Mukherjee](https://www.debankur-mukherjee.com/), and  [Michael Damron](https://sites.google.com/view/mdamron22021). From 2016 to 2019, I worked at a Fintech startup in China as one of its founding members untill it was listed on NASDAQ as QFIN. I was born in Nanjing in 1997, and raised up in Shanghai.
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
