@@ -11,7 +11,7 @@ redirect_from:
 I am a second-year PhD student in the Department of [IEOR](https://www.ieor.columbia.edu/) at [Columbia University](https://www.columbia.edu/). I am very fortunate to work with [Garud Iyengar](http://www.columbia.edu/~gi10/), [Jay Sethuraman](https://www.ieor.columbia.edu/faculty/jay-sethuraman), and [Hongseok Namkoong](https://hsnamkoong.github.io/). 
 
 I am broadly interested in the following topics:
-- Reliable and efficient machine learning models that are reliable to exogenous distribution shifts
+- Reliable and efficient machine learning models that are stable under exogenous distribution shifts
 - Optimization algorithms that take feedback loops into account 
 - Designing and understanding online marketplaces from an operational (revenue maximization) perspective
   
