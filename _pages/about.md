@@ -22,7 +22,7 @@ From 2019 to 2021, I spent two wonderful years at [Georgia Tech ISyE](https://ww
 # Papers (default author order: alphabetical, <sup>*</sup> indicates equal contribution)
 
 ### <a name="stability"></a> 1. **(arxiv 2212.06338 [stat.ML])** [**Minimax Optimal Estimation of Stability Under Distribution Shift**](https://arxiv.org/pdf/2212.06338.pdf) 
-[Hongseok Namkoong](https://hsnamkoong.github.io/), **Yuanzhe Ma**, [Peter W. Glynn](https://web.stanford.edu/~glynn/)\
+[Hongseok Namkoong](https://hsnamkoong.github.io/), **Yuanzhe Ma**, [Peter W. Glynn](https://web.stanford.edu/~glynn/) 
  
 ### <a name="HRF"></a> 2. **(ICLR 2022)** [**Hybrid Random Features**](https://openreview.net/pdf?id=EMigfE6ZeS) 
 [Krzysztof Choromanski](https://research.google/people/KrzysztofChoromanski/)<sup>*</sup>, Haoxian Chen<sup>*</sup>, 
