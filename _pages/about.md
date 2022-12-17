@@ -20,6 +20,7 @@ I am a second-year PhD student in the Department of [IEOR](https://www.ieor.colu
 
 I am broadly interested in making machine learning models more reliable and computationally efficient.
 
+
 I am also interested in problems related to online marketplaces from an operational perspective.  
 
 From 2019 to 2021, I spent two wonderful years at [Georgia Tech ISyE](https://www.isye.gatech.edu/) as a graduate student studying statistics and mathematics while working with [Siva Theja Maguluri](https://sites.google.com/site/sivatheja/), [Debankur Mukherjee](https://www.debankur-mukherjee.com/), and  [Michael Damron](https://sites.google.com/view/mdamron22021). From 2016 to 2019, I worked at a Fintech startup in China as one of its founding members untill it was listed on NASDAQ as QFIN. I was born in Nanjing in 1997, and raised up in Shanghai.
