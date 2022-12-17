@@ -25,7 +25,7 @@ From 2019 to 2021, I spent two wonderful years at [Georgia Tech ISyE](https://ww
 **arxiv**
 
 [***Hybrid Random Features***](https://openreview.net/pdf?id=EMigfE6ZeS)
-Krzysztof Choromanski, Haoxian Chen, Han Lin, **Yuanzhe Ma**, Arijit Sehanobish, Deepali Jain, Michael S Ryoo, Jake Varley, Andy Zeng, Valerii Likhosherstov, Dmitry Kalashnikov, Vikas Sindhwani, Adrian Weller
+[Krzysztof Choromanski](https://research.google/people/KrzysztofChoromanski/), Haoxian Chen, Han Lin, **Yuanzhe Ma**, Arijit Sehanobish, Deepali Jain, Michael S Ryoo, Jake Varley, Andy Zeng, Valerii Likhosherstov, Dmitry Kalashnikov, Vikas Sindhwani, Adrian Weller
 **ICLR 2022**
 
 
