@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About ME"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -26,7 +26,7 @@ From 2019 to 2021, I spent two wonderful years at [Georgia Tech ISyE](https://ww
 **arxiv 2212.06338 [stat.ML]**
 
 [***Hybrid Random Features***](https://openreview.net/pdf?id=EMigfE6ZeS)\
-[Krzysztof Choromanski<sup>*</sup>](https://research.google/people/KrzysztofChoromanski/), Haoxian Chen<sup>*</sup>, 
+[Krzysztof Choromanski](https://research.google/people/KrzysztofChoromanski/)<sup>*</sup>, Haoxian Chen<sup>*</sup>, 
 Han Lin<sup>*</sup>, **Yuanzhe Ma<sup>*</sup>**, Arijit Sehanobish<sup>*</sup>, Deepali Jain, Michael S Ryoo, Jake Varley, Andy Zeng, Valerii Likhosherstov, Dmitry Kalashnikov, Vikas Sindhwani, Adrian Weller\
 **ICLR 2022**
 
