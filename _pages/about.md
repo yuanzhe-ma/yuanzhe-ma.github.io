@@ -22,5 +22,9 @@ From 2019 to 2021, I spent two wonderful years at [Georgia Tech ISyE](https://ww
 
 
 [***Hybrid Random Features***](https://openreview.net/pdf?id=EMigfE6ZeS)
-Krzysztof Choromanski, Haoxian Chen, Han Lin, Yuanzhe Ma, Arijit Sehanobish, Deepali Jain, Michael S Ryoo, Jake Varley, Andy Zeng, Valerii Likhosherstov, Dmitry Kalashnikov, Vikas Sindhwani, Adrian Weller
-*ICLR 2022*
+Krzysztof Choromanski, Haoxian Chen, Han Lin, **Yuanzhe Ma**, Arijit Sehanobish, Deepali Jain, Michael S Ryoo, Jake Varley, Andy Zeng, Valerii Likhosherstov, Dmitry Kalashnikov, Vikas Sindhwani, Adrian Weller
+**ICLR 2022**
+
+[***Minimax Optimal Estimation of Stability Under Distribution Shift***](https://arxiv.org/pdf/2212.06338.pdf)
+[Hongseok Namkoong](https://hsnamkoong.github.io/), **Yuanzhe Ma**, [Peter W. Glynn](https://web.stanford.edu/~glynn/)
+**arxiv**
