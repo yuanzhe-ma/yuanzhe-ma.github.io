@@ -21,6 +21,6 @@ From 2019 to 2021, I spent two wonderful years at [Georgia Tech ISyE](https://ww
 # Papers
 
 
-[***Hybrid Random Features***]([https://arxiv.org/pdf/2011.14033.pdf](https://openreview.net/pdf?id=EMigfE6ZeS))
+[***Hybrid Random Features***](https://openreview.net/pdf?id=EMigfE6ZeS)
 Krzysztof Choromanski, Haoxian Chen, Han Lin, Yuanzhe Ma, Arijit Sehanobish, Deepali Jain, Michael S Ryoo, Jake Varley, Andy Zeng, Valerii Likhosherstov, Dmitry Kalashnikov, Vikas Sindhwani, Adrian Weller
 *ICLR 2022*
