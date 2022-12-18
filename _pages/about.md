@@ -19,7 +19,7 @@ I am broadly interested in the following topics:
 From 2019 to 2021, I spent two wonderful years at [Georgia Tech ISyE](https://www.isye.gatech.edu/) as a graduate student studying statistics and mathematics while working with [Siva Theja Maguluri](https://sites.google.com/site/sivatheja/), [Debankur Mukherjee](https://www.debankur-mukherjee.com/), and  [Michael Damron](https://sites.google.com/view/mdamron22021)  on different topics including queuing systems, random matrix theory, and percolation theory.
 
 
-<h1 id="publications"> Papers (default author order: alphabetical, <sup>*</sup> indicates equal contribution</h1>
+<h1 id="publications"> Papers (default author order: alphabetical, <sup>*</sup> indicates equal contribution)</h1>
 
 ### <a name="stability"></a> 1. **(arxiv 2212.06338 [stat.ML])** [**Minimax Optimal Estimation of Stability Under Distribution Shift**](https://arxiv.org/pdf/2212.06338.pdf) 
 [Hongseok Namkoong](https://hsnamkoong.github.io/), **Yuanzhe Ma**, [Peter W. Glynn](https://web.stanford.edu/~glynn/) 
