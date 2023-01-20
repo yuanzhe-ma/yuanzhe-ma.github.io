@@ -29,4 +29,10 @@ Han Lin<sup>*</sup>, **Yuanzhe Ma<sup>*</sup>**, Arijit Sehanobish<sup>*</sup>, 
 <br>\[[Paper](https://openreview.net/pdf?id=EMigfE6ZeS)\]\[[Code](https://github.com/HL-hanlin/HRF_ICLR2022)\]\[[Video](https://iclr.cc/virtual/2022/poster/6410)\]\[[Slides](https://iclr.cc/media/iclr-2022/Slides/6410.pdf)\]
 
 
+<h1 id="courses"> Courses </h1>
+
+**Courses I've taught as a teaching assistant**
+- IEOR 4111	Operations Consulting (MS in [Management Science and Engineering]([https://mse.ieor.columbia.edu/) core course)
+- IEOR 4703 Monte Carlo Simulation (MS in [Financial Engineering](https://msfe.ieor.columbia.edu/) core course)
+
 
