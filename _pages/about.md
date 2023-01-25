@@ -10,9 +10,8 @@ redirect_from:
 
 I am a second-year PhD student in the Department of [IEOR](https://www.ieor.columbia.edu/) at [Columbia University](https://www.columbia.edu/). I am very fortunate to work with [Garud Iyengar](http://www.columbia.edu/~gi10/), [Jay Sethuraman](https://www.ieor.columbia.edu/faculty/jay-sethuraman), and [Hongseok Namkoong](https://hsnamkoong.github.io/). 
  
-I am broadly interested in developing reliable learning, inference, and optimization algorithms with applications in online platform operations.
+I am broadly interested in developing reliable learning, causal inference, and optimization algorithms with applications in online platform operations.
   
- 
 From 2019 to 2021, I spent two wonderful years at [Georgia Tech ISyE](https://www.isye.gatech.edu/) as a graduate student studying statistics and mathematics while working with [Siva Theja Maguluri](https://sites.google.com/site/sivatheja/), [Debankur Mukherjee](https://www.debankur-mukherjee.com/), and  [Michael Damron](https://sites.google.com/view/mdamron22021)  on different topics including queuing systems, random matrix theory, and percolation theory.
 
 
