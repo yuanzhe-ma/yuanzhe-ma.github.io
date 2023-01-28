@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in the Department of [IEOR](https://www.ieor.columbia.edu/) at [Columbia University](https://www.columbia.edu/). I am very fortunate to work with [Garud Iyengar](http://www.columbia.edu/~gi10/), [Jay Sethuraman](https://www.ieor.columbia.edu/faculty/jay-sethuraman), and [Hongseok Namkoong](https://hsnamkoong.github.io/). 
+I am a second-year PhD student in the Department of [IEOR](https://www.ieor.columbia.edu/) at [Columbia University](https://www.columbia.edu/). I am very fortunate to work with Prof. [Garud Iyengar](http://www.columbia.edu/~gi10/), Prof. [Jay Sethuraman](https://www.ieor.columbia.edu/faculty/jay-sethuraman), and Prof. [Hongseok Namkoong](https://hsnamkoong.github.io/). 
  
-I am broadly interested in developing reliable learning, causal inference, and optimization algorithms with applications in online platform operations.
+I am broadly interested in developing **reliable** learning, **causal inference**, and optimization algorithms with applications in **online platform** operations.
 Feel free to reach out to me by <ym2865@columbia.edu> if you want to chat, I am always looking for new collaboration.
   
   
-From 2019 to 2021, I spent two wonderful years at [Georgia Tech ISyE](https://www.isye.gatech.edu/) as a graduate student studying statistics and mathematics while working with [Siva Theja Maguluri](https://sites.google.com/site/sivatheja/), [Debankur Mukherjee](https://www.debankur-mukherjee.com/), and  [Michael Damron](https://sites.google.com/view/mdamron22021)  on different topics including queuing systems, random matrix theory, and percolation theory.
+From 2019 to 2021, I spent two wonderful years at [Georgia Tech ISyE](https://www.isye.gatech.edu/) as a graduate student studying statistics and mathematics while working with Prof. [Siva Theja Maguluri](https://sites.google.com/site/sivatheja/), Prof. [Debankur Mukherjee](https://www.debankur-mukherjee.com/), and  Prof. [Michael Damron](https://sites.google.com/view/mdamron22021)  on different topics including queuing systems, random matrix theory, and percolation theory.
 
 
 <h1 id="publications"> Papers (default author order: alphabetical, <sup>*</sup> indicates equal contribution)</h1>
@@ -31,8 +31,8 @@ Han Lin<sup>*</sup>, **Yuanzhe Ma<sup>*</sup>**, Arijit Sehanobish<sup>*</sup>, 
 <h1 id="courses"> Courses </h1>
 
 **Courses I've taught as a teaching assistant:**
-- IEOR 4111	Operations Consulting (MS in [Management Science and Engineering](https://mse.ieor.columbia.edu/) core course)
-- IEOR 4703 Monte Carlo Simulation (MS in [Financial Engineering](https://msfe.ieor.columbia.edu/) core course)
+- IEOR 4111	Operations Consulting (MS in [Management Science and Engineering](https://mse.ieor.columbia.edu/) core course, taught by Prof. [Soulaymane Kachani](https://provost.columbia.edu/people/soulaymane-kachani))
+- IEOR 4703 [Monte Carlo Simulation](http://yuanzhe-ma.github.io/files/IEOR4703-MonteCarloSimulation.pdf) (MS in [Financial Engineering](https://msfe.ieor.columbia.edu/) core course, taught by Prof. [Ali Hirsa](https://www.ieor.columbia.edu/faculty/ali-hirsa))
 
 **Courses (PhD level) I've taken (am taking) as a student:**
 
