@@ -32,4 +32,25 @@ Han Lin<sup>*</sup>, **Yuanzhe Ma<sup>*</sup>**, Arijit Sehanobish<sup>*</sup>, 
 - IEOR 4111	Operations Consulting (MS in [Management Science and Engineering](https://mse.ieor.columbia.edu/) core course)
 - IEOR 4703 Monte Carlo Simulation (MS in [Financial Engineering](https://msfe.ieor.columbia.edu/) core course)
 
+**Courses (PhD level) I've taken (am taking) as a student:**
+
+- [Reliable Machine Learning](https://hsnamkoong.github.io/b9145/index.html)
+- [Nonparametric Theory in Machine Learning](http://www.columbia.edu/~skk2175/Courses/Syllabus-8201-Spr23.pdf)
+- Combinatorial  Optimization 
+- Probabilistic Combinatorics & Algorithms  
+- Linear & Convex Optimization
+- Stochastic Processes 1 & 2 
+- Microeconomics 1 & 2 
+- Stochastic Calculus 
+- [Reinforcement Learning Theory](https://www.dropbox.com/sh/chwb7j1keeyide1/AAB0SDqVaD1qm2Ji9id3jF3ea?dl=0)
+- Measure Theory 
+- Design & Analysis of Experiments 
+- Theoretical Statistics    
+- [Functional Analysis & Basis Theory](https://heil.math.gatech.edu/papers/bases.pdf) 
+- Testing Statistical Hypotheses 
+- High Dimensional Probability & Statistics
+- Machine Learning 
+- Computational Statistics 
+- Linear Statistical Models  
+- Multivariate Statistical Analysis  
 
