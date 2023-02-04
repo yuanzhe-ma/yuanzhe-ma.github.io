@@ -36,23 +36,9 @@ Han Lin<sup>*</sup>, **Yuanzhe Ma<sup>*</sup>**, Arijit Sehanobish<sup>*</sup>, 
 
 **Courses (PhD level) I've taken (am taking) as a student:**
 
-- [Reliable Machine Learning](https://hsnamkoong.github.io/b9145/index.html)
-- [Nonparametric Theory in Machine Learning](http://www.columbia.edu/~skk2175/Courses/Syllabus-8201-Spr23.pdf)
-- Combinatorial  Optimization 
-- Probabilistic Combinatorics & Algorithms  
-- Linear & Convex Optimization
-- Stochastic Processes 1 & 2 
-- Microeconomics 1 & 2 
-- [Stochastic Calculus](https://link.springer.com/book/10.1007/978-3-319-31089-3)
-- [Reinforcement Learning Theory](https://www.dropbox.com/sh/chwb7j1keeyide1/AAB0SDqVaD1qm2Ji9id3jF3ea?dl=0)
-- Measure Theory 
-- [Design & Analysis of Experiments](https://www2.isye.gatech.edu/~jeffwu/isye6413/) 
-- Theoretical Statistics    
-- [Functional Analysis & Basis Theory](https://heil.math.gatech.edu/papers/bases.pdf) 
-- [Testing Statistical Hypotheses](http://yuanzhe-ma.github.io/files/Math_6263_Notes.pdf) 
-- High Dimensional [Probability](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.pdf) & [Statistics](https://doi.org/10.1017/9781108627771)
-- Machine Learning 
-- Computational Statistics 
-- [Linear Statistical Models](http://yuanzhe-ma.github.io/files/Math_6266_Notes.pdf)  
-- Multivariate Statistical Analysis  
+- **Data Science:** [Reliable Machine Learning](https://hsnamkoong.github.io/b9145/index.html), [Nonparametric Theory in Machine Learning](http://www.columbia.edu/~skk2175/Courses/Syllabus-8201-Spr23.pdf), [Reinforcement Learning Theory](https://www.dropbox.com/sh/chwb7j1keeyide1/AAB0SDqVaD1qm2Ji9id3jF3ea?dl=0), High Dimensional [Probability](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.pdf) & [Statistics](https://doi.org/10.1017/9781108627771)
+- **Statistics:** [Design & Analysis of Experiments](https://www2.isye.gatech.edu/~jeffwu/isye6413/), [Testing Statistical Hypotheses](http://yuanzhe-ma.github.io/files/Math_6263_Notes.pdf), Computational Statistics, Theoretical Statistics, Multivariate Statistical Analysis, [Linear Statistical Models](http://yuanzhe-ma.github.io/files/Math_6266_Notes.pdf)
+- **Operations Research:** Linear & Convex Optimization, Combinatorial  Optimization, Stochastic Processes 1 & 2, Probabilistic Combinatorics & Algorithms
+- **Mathematics and Economics:** Measure Theory, [Functional Analysis & Basis Theory](https://heil.math.gatech.edu/papers/bases.pdf), [Stochastic Calculus](https://link.springer.com/book/10.1007/978-3-319-31089-3), Microeconomics 1 & 2 
+ 
 
