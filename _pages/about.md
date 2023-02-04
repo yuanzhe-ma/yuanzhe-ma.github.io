@@ -33,7 +33,7 @@ Han Lin<sup>*</sup>, **Yuanzhe Ma<sup>*</sup>**, Arijit Sehanobish<sup>*</sup>, 
 
 **Courses I've taught as a teaching assistant:**
 - IEOR 4111	Operations Consulting (MS in [Management Science and Engineering](https://mse.ieor.columbia.edu/) core course, taught by Prof. [Soulaymane Kachani](https://provost.columbia.edu/people/soulaymane-kachani))
-- IEOR 4703 [Monte Carlo Simulation](http://yuanzhe-ma.github.io/files/IEOR4703-MonteCarloSimulation.pdf) (MS in [Financial Engineering](https://msfe.ieor.columbia.edu/) core course, taught by Prof. [Ali Hirsa](https://www.ieor.columbia.edu/faculty/ali-hirsa))
+- IEOR 4703 Monte Carlo Simulation (MS in [Financial Engineering](https://msfe.ieor.columbia.edu/) core course, taught by Prof. [Ali Hirsa](https://www.ieor.columbia.edu/faculty/ali-hirsa))
 
 **Courses (PhD level) I've taken (am taking) as a student:**
 
