@@ -11,7 +11,7 @@ redirect_from:
 I am a second-year PhD student in the Department of [IEOR](https://www.ieor.columbia.edu/) at [Columbia University](https://www.columbia.edu/). I am very fortunate to work with Prof. [Garud Iyengar](http://www.columbia.edu/~gi10/), Prof. [Jay Sethuraman](https://www.ieor.columbia.edu/faculty/jay-sethuraman), and Prof. [Hongseok Namkoong](https://hsnamkoong.github.io/). 
  
 I am broadly interested in developing **reliable** learning, **causal inference**, and optimization algorithms with applications in data-driven decision-making tailored to **online platform** operations.
-Feel free to reach out to me by <ym2865@columbia.edu> if you want to chat, I am always looking for new collaboration.
+Feel free to reach out to me at <ym2865@columbia.edu> if you want to chat, I am always looking for a new collaboration.
 My office is at [500 W 120th St](https://goo.gl/maps/vuZJuzMLHikE9HNXA), Room 416.
   
   
