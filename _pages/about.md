@@ -20,7 +20,7 @@ From 2019 to 2021, I spent two wonderful years at [Georgia Tech ISyE](https://ww
 
 <h1 id="publications"> Papers</h1>
 
-The efault author order is alphabetical, <sup>*</sup> indicates equal contribution. Here are my [Semantic](https://www.semanticscholar.org/author/Yuanzhe-Ma/2144051894) and [Google](https://scholar.google.com/citations?user=4d8UV8sAAAAJ) scholar profiles.
+The default author order is alphabetical, <sup>*</sup> indicates equal contribution. Here are my [Semantic](https://www.semanticscholar.org/author/Yuanzhe-Ma/2144051894) and [Google](https://scholar.google.com/citations?user=4d8UV8sAAAAJ) scholar profiles.
 
 ### <a name="stability"></a> 1. **(arxiv 2212.06338 [stat.ML])** [**Minimax Optimal Estimation of Stability Under Distribution Shift**](https://arxiv.org/pdf/2212.06338.pdf) 
 [Hongseok Namkoong](https://hsnamkoong.github.io/), **Yuanzhe Ma**, [Peter W. Glynn](https://web.stanford.edu/~glynn/) 
