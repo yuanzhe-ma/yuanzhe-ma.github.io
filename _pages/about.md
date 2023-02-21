@@ -22,8 +22,7 @@ From 2019 to 2021, I spent two wonderful years at [Georgia Tech ISyE](https://ww
 
 The default author order is alphabetical, <sup>*</sup> indicates equal contribution. Here are my [Semantic](https://www.semanticscholar.org/author/Yuanzhe-Ma/2144051894) and [Google](https://scholar.google.com/citations?user=4d8UV8sAAAAJ) scholar profiles.
 
-### [**The Distributional Effects of “Fulfilled By Amazon” (FBA)**](https://ssrn.com/abstract=4365855) 
-[Garud Iyengar](http://www.columbia.edu/~gi10/), **Yuanzhe Ma**, [Thomas J. Rivera](https://sites.google.com/site/thomasjriveraecon/home), [Fahad Saleh](https://www.fahadsaleh.com/), [Jay Sethuraman](https://www.ieor.columbia.edu/faculty/jay-sethuraman) 
+ 
 
 ### [**Minimax Optimal Estimation of Stability Under Distribution Shift**](https://arxiv.org/pdf/2212.06338.pdf) 
 [Hongseok Namkoong](https://hsnamkoong.github.io/), **Yuanzhe Ma**, [Peter W. Glynn](https://web.stanford.edu/~glynn/) 
