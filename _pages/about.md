@@ -22,17 +22,19 @@ From 2019 to 2021, I spent two wonderful years at [Georgia Tech ISyE](https://ww
 
 The default author order is alphabetical, <sup>*</sup> indicates equal contribution. Here are my [Semantic](https://www.semanticscholar.org/author/Yuanzhe-Ma/2144051894) and [Google](https://scholar.google.com/citations?user=4d8UV8sAAAAJ) scholar profiles.
 
-### [**The Distributional Effects of “Fulfilled By Amazon” (FBA)**](https://ssrn.com/abstract=4365855) 
+### **The Distributional Effects of “Fulfilled By Amazon” (FBA)**
 [Garud Iyengar](http://www.columbia.edu/~gi10/), **Yuanzhe Ma**, [Thomas J. Rivera](https://sites.google.com/site/thomasjriveraecon/home), [Fahad Saleh](https://www.fahadsaleh.com/), [Jay Sethuraman](https://www.ieor.columbia.edu/faculty/jay-sethuraman)  
+<br>\[[SSRN](https://ssrn.com/abstract=4365855)\]
 
-### [**Minimax Optimal Estimation of Stability Under Distribution Shift**](https://arxiv.org/pdf/2212.06338.pdf) 
+### **Minimax Optimal Estimation of Stability Under Distribution Shift** 
 [Hongseok Namkoong](https://hsnamkoong.github.io/), **Yuanzhe Ma**, [Peter W. Glynn](https://web.stanford.edu/~glynn/) 
- 
-### [**Hybrid Random Features**](https://openreview.net/pdf?id=EMigfE6ZeS) 
+<br>\[[arxiv](https://arxiv.org/abs/2212.06338)\]
+
+### **Hybrid Random Features** 
 [Krzysztof Choromanski](https://research.google/people/KrzysztofChoromanski/)<sup>*</sup>, [Haoxian Chen](https://scholar.google.com/citations?user=yOUIELYAAAAJ&hl=en)<sup>*</sup>, 
 [Han Lin](https://hl-hanlin.github.io/)<sup>*</sup>, **Yuanzhe Ma<sup>*</sup>**, [Arijit Sehanobish](https://scholar.google.com/citations?user=MEby6-QAAAAJ&hl=en)<sup>*</sup>, Deepali Jain, Michael S Ryoo, Jake Varley, Andy Zeng, Valerii Likhosherstov, Dmitry Kalashnikov, Vikas Sindhwani, Adrian Weller 
 <br>International Conference on Learning Representations (ICLR), 2022 
-<br>\[[Code](https://github.com/HL-hanlin/HRF_ICLR2022)\]\[[Talk](https://iclr.cc/virtual/2022/poster/6410)\]\[[Slides](https://iclr.cc/media/iclr-2022/Slides/6410.pdf)\]
+<br>\[[ICLR](https://openreview.net/pdf?id=EMigfE6ZeS)\]\[[arxiv](https://arxiv.org/abs/2110.04367)\]\[[Code](https://github.com/HL-hanlin/HRF_ICLR2022)\]\[[Talk](https://iclr.cc/virtual/2022/poster/6410)\]\[[Slides](https://iclr.cc/media/iclr-2022/Slides/6410.pdf)\]
 
 
 <h1 id="courses"> Courses </h1>
