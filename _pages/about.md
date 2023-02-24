@@ -33,7 +33,6 @@ The default author order is alphabetical, <sup>*</sup> indicates equal contribut
 ### **Hybrid Random Features** 
 [Krzysztof Choromanski](https://research.google/people/KrzysztofChoromanski/)<sup>*</sup>, [Haoxian Chen](https://scholar.google.com/citations?user=yOUIELYAAAAJ&hl=en)<sup>*</sup>, 
 [Han Lin](https://hl-hanlin.github.io/)<sup>*</sup>, **Yuanzhe Ma<sup>*</sup>**, [Arijit Sehanobish](https://scholar.google.com/citations?user=MEby6-QAAAAJ&hl=en)<sup>*</sup>, Deepali Jain, Michael S Ryoo, Jake Varley, Andy Zeng, Valerii Likhosherstov, Dmitry Kalashnikov, Vikas Sindhwani, Adrian Weller 
-<br>International Conference on Learning Representations (ICLR), 2022 
 <br>\[[ICLR](https://openreview.net/pdf?id=EMigfE6ZeS)\]\[[arxiv](https://arxiv.org/abs/2110.04367)\]\[[Code](https://github.com/HL-hanlin/HRF_ICLR2022)\]\[[Talk](https://iclr.cc/virtual/2022/poster/6410)\]\[[Slides](https://iclr.cc/media/iclr-2022/Slides/6410.pdf)\]
 
 
