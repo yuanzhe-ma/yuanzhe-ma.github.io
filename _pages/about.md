@@ -25,7 +25,7 @@ The default author order is alphabetical, <sup>*</sup> indicates equal contribut
 ### **The Distributional Effects of “Fulfilled By Amazon” (FBA)**
 [Garud Iyengar](http://www.columbia.edu/~gi10/), **Yuanzhe Ma**, [Thomas J. Rivera](https://sites.google.com/site/thomasjriveraecon/home), [Fahad Saleh](https://www.fahadsaleh.com/), 
 [Jay Sethuraman](https://www.ieor.columbia.edu/faculty/jay-sethuraman)  
-<br>\[[SSRN](https://ssrn.com/abstract=4365855)\]
+\[[SSRN](https://ssrn.com/abstract=4365855)\]
 
 ### **Minimax Optimal Estimation of Stability Under Distribution Shift** 
 [Hongseok Namkoong](https://hsnamkoong.github.io/), **Yuanzhe Ma**, [Peter W. Glynn](https://web.stanford.edu/~glynn/) 
