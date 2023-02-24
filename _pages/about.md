@@ -15,7 +15,7 @@ Feel free to reach out to me at <ym2865@columbia.edu> if you want to chat, I am 
 My office is at [500 W 120th St](https://goo.gl/maps/vuZJuzMLHikE9HNXA), Room 416.
   
   
-From 2019 to 2021, I spent two wonderful years at [Georgia Tech ISyE](https://www.isye.gatech.edu/) as a graduate student studying statistics and mathematics while working with Prof. [Siva Theja Maguluri](https://sites.google.com/site/sivatheja/), Prof. [Debankur Mukherjee](https://www.debankur-mukherjee.com/), and  Prof. [Michael Damron](https://sites.google.com/view/mdamron22021)  on different topics including queuing theory, random matrix theory, and [percolation theory](https://en.wikipedia.org/wiki/First_passage_percolation).
+From 2019 to 2021, I spent two wonderful years at [Georgia Tech ISyE](https://www.isye.gatech.edu/) as a graduate student studying statistics and mathematics while working with Prof. [Siva Theja Maguluri](https://sites.google.com/site/sivatheja/), Prof. [Debankur Mukherjee](https://www.debankur-mukherjee.com/), and  Prof. [Michael Damron](https://sites.google.com/view/mdamron22021)  on different topics including queuing theory, random matrix theory, and percolation theory.
 
 
 <h1 id="publications"> Papers</h1>
@@ -31,7 +31,7 @@ The default author order is alphabetical, <sup>*</sup> indicates equal contribut
 ### [**Hybrid Random Features**](https://openreview.net/pdf?id=EMigfE6ZeS) 
 [Krzysztof Choromanski](https://research.google/people/KrzysztofChoromanski/)<sup>*</sup>, [Haoxian Chen](https://scholar.google.com/citations?user=yOUIELYAAAAJ&hl=en)<sup>*</sup>, 
 [Han Lin](https://hl-hanlin.github.io/)<sup>*</sup>, **Yuanzhe Ma<sup>*</sup>**, [Arijit Sehanobish](https://scholar.google.com/citations?user=MEby6-QAAAAJ&hl=en)<sup>*</sup>, Deepali Jain, Michael S Ryoo, Jake Varley, Andy Zeng, Valerii Likhosherstov, Dmitry Kalashnikov, Vikas Sindhwani, Adrian Weller 
-International Conference on Learning Representations (ICLR), 2022 
+<br>International Conference on Learning Representations (ICLR), 2022 
 <br>\[[Paper](https://openreview.net/pdf?id=EMigfE6ZeS)\]\[[Code](https://github.com/HL-hanlin/HRF_ICLR2022)\]\[[Video](https://iclr.cc/virtual/2022/poster/6410)\]\[[Slides](https://iclr.cc/media/iclr-2022/Slides/6410.pdf)\]
 
 
