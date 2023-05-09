@@ -17,7 +17,7 @@ My office is at [500 W 120th St](https://goo.gl/maps/vuZJuzMLHikE9HNXA), Room 41
   
 From 2019 to 2021, I spent two wonderful years at [Georgia Tech ISyE](https://www.isye.gatech.edu/) as a graduate student studying statistics and mathematics while working with Prof. [Siva Theja Maguluri](https://sites.google.com/site/sivatheja/), Prof. [Debankur Mukherjee](https://www.debankur-mukherjee.com/), and  Prof. [Michael Damron](https://sites.google.com/view/mdamron22021)  on different topics including queuing theory, random matrix theory, and percolation theory.
 
-<h1 id="news"> Courses </h1>
+<h1 id="news"> News </h1>
 
 
 04/07/2023: I gave a [lightning talk](https://yuanzhe-ma.github.io/files/Slides_stability.pdf)
