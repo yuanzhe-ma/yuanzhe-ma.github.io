@@ -19,6 +19,11 @@ From 2019 to 2021, I spent two wonderful years at [Georgia Tech ISyE](https://ww
 
 <h1 id="news"> News </h1>
 
+05/24/2023: I will give a lightning talk and a poster presentation at [Marketplace Innovation Workshop](http://marketplaceinnovation.net/).
+
+05/22/2023: I will give a talk at [POMS Conference](https://pomsmeetings.org/conf-2023/).
+
+05/05/2023: I gave a [poster presentation](https://yuanzhe-ma.github.io/files/Poster_stability.pdf) at [NYC Operations Day](https://sites.google.com/view/nyc-ops-day-2023/home).
 
 04/07/2023: I gave a [lightning talk](https://yuanzhe-ma.github.io/files/Slides_stability.pdf)
 and [poster presentation](https://yuanzhe-ma.github.io/files/Poster_stability.pdf) at [Columbia Statistical Machine Learning Symposium](https://statisticalml.stat.columbia.edu/event/columbia-university-statisticalml-symposium/).
