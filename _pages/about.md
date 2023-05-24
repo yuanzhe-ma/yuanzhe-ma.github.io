@@ -17,13 +17,13 @@ From 2019 to 2021, I spent two wonderful years at [Georgia Tech ISyE](https://ww
 
 <h1 id="news"> News </h1>
 
-05/24/2023: I will give a lightning talk and a poster presentation at [Marketplace Innovation Workshop](http://marketplaceinnovation.net/).
+05/2023: I will give a lightning talk and a [poster presentation](https://yuanzhe-ma.github.io/files/Poster_FBA.pdf) at [Marketplace Innovation Workshop](http://marketplaceinnovation.net/).
 
-05/22/2023: I will give a talk at [POMS Conference](https://pomsmeetings.org/conf-2023/).
+05/2023: I will give a [talk](https://yuanzhe-ma.github.io/files/Slides_FBA.pdf) at [POMS Conference](https://pomsmeetings.org/conf-2023/).
 
-05/05/2023: I gave a [poster presentation](https://yuanzhe-ma.github.io/files/Poster_stability.pdf) at [NYC Operations Day](https://sites.google.com/view/nyc-ops-day-2023/home).
+05/2023: I gave a [poster presentation](https://yuanzhe-ma.github.io/files/Poster_stability.pdf) at [NYC Operations Day](https://sites.google.com/view/nyc-ops-day-2023/home).
 
-04/07/2023: I gave a [lightning talk](https://yuanzhe-ma.github.io/files/Slides_stability.pdf)
+04/2023: I gave a [lightning talk](https://yuanzhe-ma.github.io/files/Slides_stability.pdf)
 and [poster presentation](https://yuanzhe-ma.github.io/files/Poster_stability.pdf) at [Columbia Statistical Machine Learning Symposium](https://statisticalml.stat.columbia.edu/event/columbia-university-statisticalml-symposium/).
 
 
@@ -54,11 +54,5 @@ The default author order is alphabetical, <sup>*</sup> indicates equal contribut
 - IEOR 4111	Operations Consulting (MS in [Management Science and Engineering](https://mse.ieor.columbia.edu/) core course, taught by Prof. [Soulaymane Kachani](https://provost.columbia.edu/people/soulaymane-kachani))
 - IEOR 4703 Monte Carlo Simulation (MS in [Financial Engineering](https://msfe.ieor.columbia.edu/) core course, taught by Prof. [Ali Hirsa](https://www.ieor.columbia.edu/faculty/ali-hirsa))
 
-**Courses I've taken (am taking) as a student:**
-
-- **Data Science:** [Reliable Machine Learning](https://hsnamkoong.github.io/b9145/index.html), [Nonparametric Theory in Machine Learning](http://www.columbia.edu/~skk2175/Courses/Syllabus-8201-Spr23.pdf), [Reinforcement Learning Theory](https://www.dropbox.com/sh/chwb7j1keeyide1/AAB0SDqVaD1qm2Ji9id3jF3ea?dl=0), High Dimensional [Probability](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.pdf) & [Statistics](https://doi.org/10.1017/9781108627771)
-- **Statistics:** [Design & Analysis of Experiments](https://www2.isye.gatech.edu/~jeffwu/isye6413/), Testing Statistical Hypotheses, Computational Statistics, Theoretical Statistics, Multivariate Statistical Analysis, Linear Statistical Models
-- **Operations Research:** Linear & Convex Optimization, Combinatorial  Optimization, Stochastic Processes 1 & 2, Probabilistic Combinatorics & Algorithms
-- **Mathematics and Economics:** Measure Theory, [Functional Analysis & Basis Theory](https://heil.math.gatech.edu/papers/bases.pdf), [Stochastic Calculus](https://link.springer.com/book/10.1007/978-3-319-31089-3), Microeconomics 1 & 2 
  
 
