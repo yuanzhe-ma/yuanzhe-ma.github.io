@@ -15,17 +15,7 @@ Feel free to reach out to me at <ym2865@columbia.edu> if you want to chat, I am 
 My office is at [500 W 120th St](https://goo.gl/maps/vuZJuzMLHikE9HNXA), Room 416.
 From 2019 to 2021, I spent two wonderful years at [Georgia Tech ISyE](https://www.isye.gatech.edu/) as a graduate student studying statistics and mathematics.
 
-<h1 id="news"> News </h1>
-
-05/2023: I will give a lightning talk and a [poster presentation](https://yuanzhe-ma.github.io/files/Poster_FBA.pdf) at [Marketplace Innovation Workshop](http://marketplaceinnovation.net/).
-
-05/2023: I will give a [talk](https://yuanzhe-ma.github.io/files/Slides_FBA.pdf) at [POMS Conference](https://pomsmeetings.org/conf-2023/).
-
-05/2023: I gave a [poster presentation](https://yuanzhe-ma.github.io/files/Poster_stability.pdf) at [NYC Operations Day](https://sites.google.com/view/nyc-ops-day-2023/home).
-
-04/2023: I gave a [lightning talk](https://yuanzhe-ma.github.io/files/Slides_stability.pdf)
-and [poster presentation](https://yuanzhe-ma.github.io/files/Poster_stability.pdf) at [Columbia Statistical Machine Learning Symposium](https://statisticalml.stat.columbia.edu/event/columbia-university-statisticalml-symposium/).
-
+ 
 
 <h1 id="publications"> Papers</h1>
 
@@ -35,11 +25,16 @@ The default author order is alphabetical, <sup>*</sup> indicates equal contribut
 [Garud Iyengar](http://www.columbia.edu/~gi10/), **Yuanzhe Ma**, [Thomas J. Rivera](https://sites.google.com/site/thomasjriveraecon/home), [Fahad Saleh](https://www.fahadsaleh.com/), 
 [Jay Sethuraman](https://www.ieor.columbia.edu/faculty/jay-sethuraman)  
 \[[SSRN](https://ssrn.com/abstract=4365855)\]
+- Scheduled to be presented at [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/phoenix2023/), Phoenix, AZ, 2023.
+- Presented at [POMS Annual Meeting](https://pomsmeetings.org/conf-2023/), Orlando, FL, 2023.
+- Presented at [Marketplace Innovation Workshop](http://marketplaceinnovation.net/), Virtual, 2023.
 
 ### **Minimax Optimal Estimation of Stability Under Distribution Shift** 
 [Hongseok Namkoong](https://hsnamkoong.github.io/), **Yuanzhe Ma**, [Peter W. Glynn](https://web.stanford.edu/~glynn/) 
 <br>\[[arxiv](https://arxiv.org/abs/2212.06338)\]
-<br> Major revision, **Operations Research**
+- Major revision, **Operations Research**
+- Presented at [NYC Operations Day](https://sites.google.com/view/nyc-ops-day-2023/home), New York, NY, 2023.
+- Presented at [Columbia Statistical Machine Learning Symposium](https://statisticalml.stat.columbia.edu/event/columbia-university-statisticalml-symposium/), New York, NY, 2023.
 
 ### **Hybrid Random Features** 
 [Krzysztof Choromanski](https://research.google/people/KrzysztofChoromanski/)<sup>*</sup>, [Haoxian Chen](https://scholar.google.com/citations?user=yOUIELYAAAAJ&hl=en)<sup>*</sup>, 
