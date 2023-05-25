@@ -33,7 +33,7 @@ The default author order is alphabetical, <sup>*</sup> indicates equal contribut
 [Hongseok Namkoong](https://hsnamkoong.github.io/), **Yuanzhe Ma**, [Peter W. Glynn](https://web.stanford.edu/~glynn/) 
 <br>\[[arxiv](https://arxiv.org/abs/2212.06338)\]
 - Major revision, **Operations Research**
-- Presented at [NYC Operations Day](https://sites.google.com/view/nyc-ops-day-2023/home), New York, NY, 2023.
+- Presented at [NYC Operations Day](https://sites.google.com/view/nyc-ops-day-2023/home) (poster), New York, NY, 2023.
 - Presented at [Columbia Statistical Machine Learning Symposium](https://statisticalml.stat.columbia.edu/event/columbia-university-statisticalml-symposium/), New York, NY, 2023.
 
 ### **Hybrid Random Features** 
