@@ -24,14 +24,14 @@ The default author order is alphabetical, <sup>*</sup> indicates equal contribut
 ### **The Distributional Effects of “Fulfilled By Amazon” (FBA)**
 [Garud Iyengar](http://www.columbia.edu/~gi10/), **Yuanzhe Ma**, [Thomas J. Rivera](https://sites.google.com/site/thomasjriveraecon/home), [Fahad Saleh](https://www.fahadsaleh.com/), 
 [Jay Sethuraman](https://www.ieor.columbia.edu/faculty/jay-sethuraman)  
-\[[SSRN](https://ssrn.com/abstract=4365855)\]
+\[[SSRN](https://ssrn.com/abstract=4365855)\]\[[slides](https://yuanzhe-ma.com/files/Slides_FBA.pdf)\]\[[poster](https://yuanzhe-ma.com/files/Poster_FBA.pdf)\]
 - Scheduled to be presented at [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/phoenix2023/), Phoenix, AZ, 2023.
 - Presented at [POMS Annual Meeting](https://pomsmeetings.org/conf-2023/), Orlando, FL, 2023.
 - Presented at [Marketplace Innovation Workshop](http://marketplaceinnovation.net/), Virtual, 2023.
 
 ### **Minimax Optimal Estimation of Stability Under Distribution Shift** 
 [Hongseok Namkoong](https://hsnamkoong.github.io/), **Yuanzhe Ma**, [Peter W. Glynn](https://web.stanford.edu/~glynn/) 
-<br>\[[arxiv](https://arxiv.org/abs/2212.06338)\]
+<br>\[[arxiv](https://arxiv.org/abs/2212.06338)\]\[[slides](https://yuanzhe-ma.com/files/Slides_stability.pdf)\]\[[poster](https://yuanzhe-ma.com/files/Poster_stability.pdf)\]
 - Major revision, **Operations Research**
 - Presented at [NYC Operations Day](https://sites.google.com/view/nyc-ops-day-2023/home) (poster), New York, NY, 2023.
 - Presented at [Columbia Statistical Machine Learning Symposium](https://statisticalml.stat.columbia.edu/event/columbia-university-statisticalml-symposium/), New York, NY, 2023.
