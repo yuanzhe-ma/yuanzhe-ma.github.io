@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in the Department of [Operations Research](https://www.ieor.columbia.edu/) at [Columbia University](https://www.columbia.edu/). I am very fortunate to work with Prof. [Garud Iyengar](http://www.columbia.edu/~gi10/), Prof. [Jay Sethuraman](https://www.ieor.columbia.edu/faculty/jay-sethuraman), and Prof. [Hongseok Namkoong](https://hsnamkoong.github.io/). From 2019 to 2021, I spent two years at [Georgia Tech ISyE](https://www.isye.gatech.edu/) as a graduate student studying statistics and mathematics. I also completed an undergraduate degree in economics from East China Normal University, while working full-time (as a founding member) at a FinTech startup (NASDAQ: QFIN and HKEX:3660) in China, focusing on ML problems.
+I am a second-year PhD student in the Department of Operations Research at [Columbia University](https://www.ieor.columbia.edu/). I am very fortunate to work with Prof. [Garud Iyengar](http://www.columbia.edu/~gi10/), Prof. [Jay Sethuraman](https://www.ieor.columbia.edu/faculty/jay-sethuraman), and Prof. [Hongseok Namkoong](https://hsnamkoong.github.io/). From 2019 to 2021, I spent two years at [Georgia Tech ISyE](https://www.isye.gatech.edu/) as a graduate student studying statistics and mathematics. I also completed an undergraduate degree in economics from East China Normal University, while working full-time (joined in 2016 as a founding member) at a FinTech startup (NASDAQ: QFIN and HKEX:3660) in China, focusing on ML problems.
 
 
 Research interests:
 - Understanding multi-sided online platform operations (focusing on recommendation systems and pricing)
-- Developing better causal inference, uncertainty quantification, and reliable machine learning methods, with applications in operations online problems 
+- Developing better causal inference, uncertainty quantification, and reliable machine learning methods, with applications in operations research 
  
   
 
