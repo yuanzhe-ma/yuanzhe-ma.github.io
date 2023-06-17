@@ -12,8 +12,8 @@ I am a second-year PhD student in the Department of [Operations Research](https:
 
 
 Research interests:
-- Applications: online platform operations (search and ads), recommender systems 
-- Methodology: causal inference, reliable machine learning, and analytical modeling
+- Understanding multi-sided online platform operations (focusing on recommendation systems and pricing)
+- Developing better causal inference, uncertainty quantification, and reliable machine learning methods, with applications in operations online problems 
  
   
 
