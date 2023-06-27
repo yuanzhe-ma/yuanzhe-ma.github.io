@@ -13,7 +13,7 @@ I am a second-year PhD student in the Department of Operations Research at [Colu
 
 Research interests:
 - Understanding multi-sided online platform operations (focusing on recommendation systems and pricing)
-- Developing better causal inference, uncertainty quantification, and reliable machine learning methods, with applications in operations research 
+- Developing better uncertainty quantification, and reliable machine learning methods, with applications in operations research and causal inference
  
   
 
