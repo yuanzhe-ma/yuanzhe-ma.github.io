@@ -17,7 +17,8 @@ Research interests:
  
 <h1 id="talks"> Upcoming Talks</h1>
 
-- 11/10/2023, [2023 Conference on Digital Experimentation @ MIT](https://ide.mit.edu/events/2023-conference-on-digital-experimentation-mit-codemit): two papers on user interests exploration (selected to give a 12-minute talk in Session J: “Personalization and Experimentation”) and causal inference.
+- 11/10/2023, [2023 Conference on Digital Experimentation @ MIT](https://ide.mit.edu/events/2023-conference-on-digital-experimentation-mit-codemit): two papers on user interests exploration (12-minute talk in Session J: “Personalization and Experimentation”)
+  and causal inference under limited overlap.
 
 
 <h1 id="publications"> Papers</h1>
