@@ -11,9 +11,12 @@ redirect_from:
 I am a third-year PhD student in the Department of Operations Research at [Columbia University](https://www.ieor.columbia.edu/). I am very fortunate to work with Prof. [Garud Iyengar](http://www.columbia.edu/~gi10/), Prof. [Jay Sethuraman](https://www.ieor.columbia.edu/faculty/jay-sethuraman), and Prof. [Hongseok Namkoong](https://hsnamkoong.github.io/). From 2019 to 2021, I spent two years at [Georgia Tech ISyE](https://www.isye.gatech.edu/) as a graduate student studying statistics and mathematics. I also completed an undergraduate degree in economics from East China Normal University, while working full-time (joined in 2016 as a founding member) at a FinTech startup (NASDAQ: QFIN and HKEX:3660) in China, focusing on ML problems.
 
 
-Research interests:
-- Online platform operations and experimentation (focusing on recommendation systems)
-- More reliable causal inference methods
+My research focuses on experimentation for online platforms. More specifically, I am interested in the following questions:
+-  How to design better experiments (with a clear operational objective) and data sampling strategy
+-  How to analyze data in a more reliable way after data is collected
+
+I have also worked on platform economics and reliable machine learinng.
+
  
 <h1 id="talks"> Upcoming Talks</h1>
 
