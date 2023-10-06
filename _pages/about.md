@@ -32,14 +32,14 @@ Here are my [Semantic](https://www.semanticscholar.org/author/Yuanzhe-Ma/2144051
 ### **The Distributional Effects of “Fulfilled By Amazon” (FBA)**
 [Garud Iyengar](http://www.columbia.edu/~gi10/), **Yuanzhe Ma**, [Thomas J. Rivera](https://sites.google.com/site/thomasjriveraecon/home), [Fahad Saleh](https://www.fahadsaleh.com/), 
 [Jay Sethuraman](https://www.ieor.columbia.edu/faculty/jay-sethuraman)  
-\[[SSRN](https://ssrn.com/abstract=4365855)\]\[[slides](https://yuanzhe-ma.com/files/Slides_FBA.pdf)\]\[[poster](https://yuanzhe-ma.com/files/Poster_FBA.pdf)\]
+\[[SSRN](https://ssrn.com/abstract=4365855)\]
 - Scheduled to be presented at INFORMS Annual Meeting, Phoenix, AZ, 2023.
 - Presented at POMS Annual Meeting, Orlando, FL, 2023.
 - Presented at Marketplace Innovation Workshop, Virtual, 2023.
 
 ### **Minimax Optimal Estimation of Stability Under Distribution Shift** 
 [Hongseok Namkoong](https://hsnamkoong.github.io/), **Yuanzhe Ma**, [Peter W. Glynn](https://web.stanford.edu/~glynn/) 
-<br>\[[arxiv](https://arxiv.org/abs/2212.06338)\]\[[slides](https://yuanzhe-ma.com/files/Slides_stability.pdf)\]\[[poster](https://yuanzhe-ma.com/files/Poster_stability.pdf)\]
+<br>\[[arxiv](https://arxiv.org/abs/2212.06338)\]
 - Major revision, **Operations Research**
 - Presented at NYC Operations Day (poster), New York, NY, 2023.
 - Presented at Columbia Statistical Machine Learning Symposium, New York, NY, 2023.
