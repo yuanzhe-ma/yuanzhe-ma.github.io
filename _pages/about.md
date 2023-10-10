@@ -15,7 +15,7 @@ My research focuses on experimentation for online platforms. More specifically, 
 -  How to design better experiments (with a clear operational objective) and data sampling strategy
 -  How to analyze data in a more reliable way after data is collected
 
-I have also worked on platform economics and reliable machine learinng.
+I have also worked on platform economics and reliable machine learning.
 
  
 <h1 id="talks"> Upcoming Talks</h1>
