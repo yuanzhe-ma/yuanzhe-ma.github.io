@@ -16,7 +16,7 @@ My research lies in **online platform operations**, with a recent focus on recom
 <h1 id="talks"> Upcoming Talks</h1>
 
 - 11/27/2023, Guest lecture (joint with Daksh Mittal) for the course [Advanced Machine Learning for Health and Medicine](https://reaim-lab.github.io/binf4008/), topic: uncertainty quantification for interpretability in deep learning
-- 11/10/2023, [2023 Conference on Digital Experimentation @ MIT](https://ide.mit.edu/events/2023-conference-on-digital-experimentation-mit-codemit): two papers on user interests exploration (12-minute talk in Session J: “Personalization and Experimentation”) and causal inference under limited overlap.
+- 11/10/2023, [Conference on Digital Experimentation @ MIT](https://ide.mit.edu/events/2023-conference-on-digital-experimentation-mit-codemit): two papers on user interests exploration (12-minute talk in Session J: “Personalization and Experimentation”) and causal inference under limited overlap.
 
 
 <h1 id="publications"> Papers</h1>
