@@ -11,11 +11,12 @@ redirect_from:
 I am a third-year PhD student in the Department of Operations Research at [Columbia University](https://www.ieor.columbia.edu/). I am very fortunate to work with Prof. [Garud Iyengar](http://www.columbia.edu/~gi10/), Prof. [Jay Sethuraman](https://www.ieor.columbia.edu/faculty/jay-sethuraman), and Prof. [Hongseok Namkoong](https://hsnamkoong.github.io/). From 2019 to 2021, I spent two years at [Georgia Tech ISyE](https://www.isye.gatech.edu/) as a graduate student studying statistics and mathematics. I also completed an undergraduate degree in economics from East China Normal University, while working full-time (joined in 2016 as a founding member) at a FinTech startup (NASDAQ: QFIN and HKEX:3660) in China, focusing on ML problems.
 
 
-My research lies in **online platform operations**, with a recent focus on recommendation and experimentation.
+My research lies in **online platform operations**, with a recent focus on recommendation and experimentation. I use techniques from optimization, stochastic modeling, learning theory, and game theory.
+ 
  
 <h1 id="talks"> Upcoming Talks</h1>
 
-- 11/27/2023, Guest lecture (joint with Daksh Mittal) for the course [Advanced Machine Learning for Health and Medicine](https://reaim-lab.github.io/binf4008/), topic: uncertainty quantification for interpretability in deep learning
+- 11/17/2023, Guest lecture (joint with Daksh Mittal) for the course [Advanced Machine Learning for Health and Medicine](https://reaim-lab.github.io/binf4008/), topic: uncertainty quantification for interpretability in deep learning
 - 11/10/2023, [Conference on Digital Experimentation @ MIT](https://ide.mit.edu/events/2023-conference-on-digital-experimentation-mit-codemit): two papers on user interests exploration (12-minute talk in Session J: “Personalization and Experimentation”) and causal inference under limited overlap.
 
 
