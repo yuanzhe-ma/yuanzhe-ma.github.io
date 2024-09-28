@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student in the Department of Operations Research at [Columbia University](https://www.ieor.columbia.edu/). I am very fortunate to work with Prof. [Garud Iyengar](http://www.columbia.edu/~gi10/), Prof. [Jay Sethuraman](https://www.ieor.columbia.edu/faculty/jay-sethuraman), and Prof. [Hongseok Namkoong](https://hsnamkoong.github.io/). From 2019 to 2021, I spent two years at [Georgia Tech ISyE](https://www.isye.gatech.edu/) as a graduate student studying statistics and mathematics. I also completed an undergraduate degree in economics from East China Normal University, while working full-time (joined in 2016 as a founding member) at a FinTech startup (NASDAQ: QFIN and HKEX:3660) in China, focusing on ML problems.
+I am a fourth-year PhD student in the Department of Operations Research at [Columbia University](https://www.ieor.columbia.edu/). I am very fortunate to work with Prof. [Garud Iyengar](http://www.columbia.edu/~gi10/), Prof. [Jay Sethuraman](https://www.ieor.columbia.edu/faculty/jay-sethuraman), and Prof. [Hongseok Namkoong](https://hsnamkoong.github.io/). From 2019 to 2021, I spent two years at [Georgia Tech ISyE](https://www.isye.gatech.edu/) as a graduate student studying statistics and mathematics. I also completed an undergraduate degree in economics from East China Normal University, while working full-time (joined in 2016 as a founding member) at a FinTech startup (NASDAQ: QFIN and HKEX:3660) in China, focusing on ML problems.
 
 
 Broadly, my research develops models and algorithms for reliable and responsbile decision making tailored for modern operations. I use techniques from optimization, stochastic modeling, learning theory, and game theory.
@@ -24,8 +24,13 @@ Broadly, my research develops models and algorithms for reliable and responsbile
 
 Here are my [Semantic](https://www.semanticscholar.org/author/Yuanzhe-Ma/2144051894) and [Google](https://scholar.google.com/citations?user=4d8UV8sAAAAJ) scholar profiles.
 
+
+### **Transient Analysis of the Join-the-Shortest-Queue System **
+**Yuanzhe Ma**, [Siva Theja Maguluri](https://sites.google.com/site/sivatheja/home?authuser=0)
+
+
 ### **The Distributional Effects of “Fulfilled By Amazon” (FBA)**
-[Garud Iyengar](http://www.columbia.edu/~gi10/), **Yuanzhe Ma**, [Thomas J. Rivera](https://sites.google.com/site/thomasjriveraecon/home), [Fahad Saleh](https://www.fahadsaleh.com/), 
+[Garud Iyengar](http://www.columbia.edu/~gi10/), **Yuanzhe Ma<sup>* **, [Thomas J. Rivera](https://sites.google.com/site/thomasjriveraecon/home), [Fahad Saleh](https://www.fahadsaleh.com/), 
 [Jay Sethuraman](https://www.ieor.columbia.edu/faculty/jay-sethuraman)  
 \[[SSRN](https://ssrn.com/abstract=4365855)\]
 - Scheduled to be presented at INFORMS Annual Meeting, Phoenix, AZ, 2023.
@@ -33,7 +38,7 @@ Here are my [Semantic](https://www.semanticscholar.org/author/Yuanzhe-Ma/2144051
 - Presented at Marketplace Innovation Workshop, Virtual, 2023.
 
 ### **Minimax Optimal Estimation of Stability Under Distribution Shift** 
-[Hongseok Namkoong](https://hsnamkoong.github.io/), **Yuanzhe Ma**, [Peter W. Glynn](https://web.stanford.edu/~glynn/) 
+[Hongseok Namkoong](https://hsnamkoong.github.io/), **Yuanzhe Ma<sup>* **, [Peter W. Glynn](https://web.stanford.edu/~glynn/) 
 <br>\[[arxiv](https://arxiv.org/abs/2212.06338)\]
 - Major revision, **Operations Research**
 - Presented at NYC Operations Day (poster), New York, NY, 2023.
