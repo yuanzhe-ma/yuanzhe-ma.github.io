@@ -30,15 +30,15 @@ Here are my [Semantic](https://www.semanticscholar.org/author/Yuanzhe-Ma/2144051
 
 
 ### **The Distributional Effects of “Fulfilled By Amazon” (FBA)**
-[Garud Iyengar](http://www.columbia.edu/~gi10/), **Yuanzhe Ma<sup>*</sup>**, [Thomas J. Rivera](https://sites.google.com/site/thomasjriveraecon/home), [Fahad Saleh](https://www.fahadsaleh.com/), 
-[Jay Sethuraman](https://www.ieor.columbia.edu/faculty/jay-sethuraman)  
+[Garud Iyengar](http://www.columbia.edu/~gi10/)<sup>*</sup>, **Yuanzhe Ma<sup>*</sup>**, [Thomas J. Rivera](https://sites.google.com/site/thomasjriveraecon/home)<sup>*</sup>, [Fahad Saleh](https://www.fahadsaleh.com/)<sup>*</sup>, 
+[Jay Sethuraman](https://www.ieor.columbia.edu/faculty/jay-sethuraman)<sup>*</sup>  
 \[[SSRN](https://ssrn.com/abstract=4365855)\]
 - Scheduled to be presented at INFORMS Annual Meeting, Phoenix, AZ, 2023.
 - Presented at POMS Annual Meeting, Orlando, FL, 2023.
 - Presented at Marketplace Innovation Workshop, Virtual, 2023.
 
 ### **Minimax Optimal Estimation of Stability Under Distribution Shift** 
-[Hongseok Namkoong](https://hsnamkoong.github.io/), **Yuanzhe Ma<sup>*</sup>**, [Peter W. Glynn](https://web.stanford.edu/~glynn/) 
+[Hongseok Namkoong](https://hsnamkoong.github.io/)<sup>*</sup>, **Yuanzhe Ma<sup>*</sup>**, [Peter W. Glynn](https://web.stanford.edu/~glynn/) 
 <br>\[[arxiv](https://arxiv.org/abs/2212.06338)\]
 - Major revision, **Operations Research**
 - Presented at NYC Operations Day (poster), New York, NY, 2023.
