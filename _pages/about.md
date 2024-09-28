@@ -25,7 +25,7 @@ Broadly, my research develops models and algorithms for reliable and responsbile
 Here are my [Semantic](https://www.semanticscholar.org/author/Yuanzhe-Ma/2144051894) and [Google](https://scholar.google.com/citations?user=4d8UV8sAAAAJ) scholar profiles.
 
 
-### **Transient Analysis of the Join-the-Shortest-Queue System **
+### **Transient Analysis of the Join-the-Shortest-Queue System**
 **Yuanzhe Ma**, [Siva Theja Maguluri](https://sites.google.com/site/sivatheja/home?authuser=0)
 
 
