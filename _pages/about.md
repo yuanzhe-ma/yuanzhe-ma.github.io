@@ -28,10 +28,9 @@ Here are my [Semantic](https://www.semanticscholar.org/author/Yuanzhe-Ma/2144051
 ### **Transient Analysis of the Join-the-Shortest-Queue System**
 **Yuanzhe Ma**, [Siva Theja Maguluri](https://sites.google.com/site/sivatheja/home?authuser=0)
 
-
 ### **The Distributional Effects of “Fulfilled By Amazon” (FBA)**
 [Garud Iyengar](http://www.columbia.edu/~gi10/)<sup>*</sup>, **Yuanzhe Ma<sup>*</sup>**, [Thomas J. Rivera](https://sites.google.com/site/thomasjriveraecon/home)<sup>*</sup>, [Fahad Saleh](https://www.fahadsaleh.com/)<sup>*</sup>, 
-[Jay Sethuraman](https://www.ieor.columbia.edu/faculty/jay-sethuraman)<sup>*</sup>  
+[Jay Sethuraman](https://www.engineering.columbia.edu/faculty-staff/directory/jay-sethuraman)<sup>*</sup>  
 \[[SSRN](https://ssrn.com/abstract=4365855)\]
 - Scheduled to be presented at INFORMS Annual Meeting, Phoenix, AZ, 2023.
 - Presented at POMS Annual Meeting, Orlando, FL, 2023.
