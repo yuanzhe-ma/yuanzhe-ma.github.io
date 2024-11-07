@@ -27,7 +27,7 @@ Here are my [Semantic](https://www.semanticscholar.org/author/Yuanzhe-Ma/2144051
 
 
 ### **Adaptive Labeling for Efficient Out-of-distribution Model Evaluation**
-[Daksh Mittal](https://scholar.google.com/citations?user=ug78g5YAAAAJ&hl=en)<sup>*</sup>,  **Yuanzhe Ma<sup>*</sup>**, [Shalmali Joshi](https://shalmalijoshi.github.io/reAIM/), [Hongseok Namkoong](https://hsnamkoong.github.io/)
+[Daksh Mittal](https://sites.google.com/view/dakshmittal/home)<sup>*</sup>,  **Yuanzhe Ma<sup>*</sup>**, [Shalmali Joshi](https://shalmalijoshi.github.io/reAIM/), [Hongseok Namkoong](https://hsnamkoong.github.io/)
 <br> **NeurIPS 2024**
 <br>\[[paper link](https://openreview.net/pdf?id=uuQQwrjMzb)\]
 
