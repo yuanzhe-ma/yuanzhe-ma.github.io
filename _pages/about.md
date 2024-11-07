@@ -54,8 +54,7 @@ Here are my [Semantic](https://www.semanticscholar.org/author/Yuanzhe-Ma/2144051
 [Krzysztof Choromanski](https://research.google/people/KrzysztofChoromanski/)<sup>*</sup>, [Haoxian Chen](https://scholar.google.com/citations?user=yOUIELYAAAAJ&hl=en)<sup>*</sup>, 
 [Han Lin](https://hl-hanlin.github.io/)<sup>*</sup>, **Yuanzhe Ma<sup>*</sup>**, [Arijit Sehanobish](https://scholar.google.com/citations?user=MEby6-QAAAAJ&hl=en)<sup>*</sup>, [Deepali Jain](https://research.google/people/Deepali/), [Michael S Ryoo](http://michaelryoo.com/), [Jake Varley](https://scholar.google.com/citations?user=UJcm1MoAAAAJ&hl=en), [Andy Zeng](https://andyzeng.github.io/), [Valerii Likhosherstov](https://valerytyumen.github.io/), [Dmitry Kalashnikov](https://scholar.google.com/citations?user=2DBmo-wAAAAJ&hl=en), [Vikas Sindhwani](https://vikas.sindhwani.org/), [Adrian Weller](https://mlg.eng.cam.ac.uk/adrian/) 
 <br> **ICLR 2022**
-<br>[paperlink](https://openreview.net/pdf?id=EMigfE6ZeS)[paper link](https://openreview.net/pdf?id=EMigfE6ZeS)[arxiv](https://arxiv.org/abs/2110.04367)[arxiv](https://arxiv.org/abs/2110.04367)[code](https://github.com/HL−hanlin/HRFICLR2022)[code](https://github.com/HL-hanlin/HRF_ICLR2022)[talk](https://iclr.cc/virtual/2022/poster/6410)[talk](https://iclr.cc/virtual/2022/poster/6410)[slides](https://iclr.cc/media/iclr−2022/Slides/6410.pdf)[slides](https://iclr.cc/media/iclr-2022/Slides/6410.pdf)
-
+<br>\[[paper link](https://openreview.net/pdf?id=EMigfE6ZeS)\]\[[arxiv](https://arxiv.org/abs/2110.04367)\]\[[code](https://github.com/HL-hanlin/HRF_ICLR2022)\]\[[talk](https://iclr.cc/virtual/2022/poster/6410)\]\[[slides](https://iclr.cc/media/iclr-2022/Slides/6410.pdf)\]
 
 <h1 id="courses"> Courses </h1>
 
