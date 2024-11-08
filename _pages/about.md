@@ -41,7 +41,7 @@ Here are my [Semantic](https://www.semanticscholar.org/author/Yuanzhe-Ma/2144051
 
 ### **Minimax Optimal Estimation of Stability Under Distribution Shift** 
 [Hongseok Namkoong](https://hsnamkoong.github.io/)<sup>*</sup>, **Yuanzhe Ma<sup>*</sup>**, [Peter W. Glynn](https://web.stanford.edu/~glynn/) 
-<br>\[[arxiv](https://arxiv.org/abs/2212.06338)\]
+<br>\[[arxiv](https://arxiv.org/pdf/2212.06338)\]
 <br> Major revision, **Operations Research**
 
 ### **Hybrid Random Features** 
