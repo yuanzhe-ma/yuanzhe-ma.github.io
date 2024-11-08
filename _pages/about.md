@@ -25,7 +25,6 @@ Broadly, my research develops models and algorithms for reliable and responsbile
 Here are my [Semantic](https://www.semanticscholar.org/author/Yuanzhe-Ma/2144051894) and [Google](https://scholar.google.com/citations?user=4d8UV8sAAAAJ) scholar profiles.
 
 
-
 ### **Adaptive Labeling for Efficient Out-of-distribution Model Evaluation**
 [Daksh Mittal](https://sites.google.com/view/dakshmittal/home)<sup>*</sup>,  **Yuanzhe Ma<sup>*</sup>**, [Shalmali Joshi](https://shalmalijoshi.github.io/reAIM/), [Hongseok Namkoong](https://hsnamkoong.github.io/)
 <br> **NeurIPS 2024**
@@ -39,19 +38,14 @@ Here are my [Semantic](https://www.semanticscholar.org/author/Yuanzhe-Ma/2144051
 [Garud Iyengar](http://www.columbia.edu/~gi10/)<sup>*</sup>, **Yuanzhe Ma<sup>*</sup>**, [Thomas J. Rivera](https://sites.google.com/site/thomasjriveraecon/home)<sup>*</sup>, [Fahad Saleh](https://www.fahadsaleh.com/)<sup>*</sup>, 
 [Jay Sethuraman](https://www.engineering.columbia.edu/faculty-staff/directory/jay-sethuraman)<sup>*</sup>  
 \[[SSRN](https://ssrn.com/abstract=4365855)\]
-- Scheduled to be presented at INFORMS Annual Meeting, Phoenix, AZ, 2023.
-- Presented at POMS Annual Meeting, Orlando, FL, 2023.
-- Presented at Marketplace Innovation Workshop, Virtual, 2023.
 
 ### **Minimax Optimal Estimation of Stability Under Distribution Shift** 
 [Hongseok Namkoong](https://hsnamkoong.github.io/)<sup>*</sup>, **Yuanzhe Ma<sup>*</sup>**, [Peter W. Glynn](https://web.stanford.edu/~glynn/) 
 <br>\[[arxiv](https://arxiv.org/abs/2212.06338)\]
 - Major revision, **Operations Research**
-- Presented at NYC Operations Day (poster), New York, NY, 2023.
-- Presented at Columbia Statistical Machine Learning Symposium, New York, NY, 2023.
 
 ### **Hybrid Random Features** 
-[Krzysztof Choromanski](https://research.google/people/KrzysztofChoromanski/)<sup>*</sup>, [Haoxian Chen](https://scholar.google.com/citations?user=yOUIELYAAAAJ&hl=en)<sup>*</sup>, 
+[Krzysztof Choromanski](https://research.google/people/krzysztofchoromanski/?&type=google)<sup>*</sup>, [Haoxian Chen](https://scholar.google.com/citations?user=yOUIELYAAAAJ&hl=en)<sup>*</sup>, 
 [Han Lin](https://hl-hanlin.github.io/)<sup>*</sup>, **Yuanzhe Ma<sup>*</sup>**, [Arijit Sehanobish](https://scholar.google.com/citations?user=MEby6-QAAAAJ&hl=en)<sup>*</sup>, [Deepali Jain](https://research.google/people/Deepali/), [Michael S Ryoo](http://michaelryoo.com/), [Jake Varley](https://scholar.google.com/citations?user=UJcm1MoAAAAJ&hl=en), [Andy Zeng](https://andyzeng.github.io/), [Valerii Likhosherstov](https://valerytyumen.github.io/), [Dmitry Kalashnikov](https://scholar.google.com/citations?user=2DBmo-wAAAAJ&hl=en), [Vikas Sindhwani](https://vikas.sindhwani.org/), [Adrian Weller](https://mlg.eng.cam.ac.uk/adrian/) 
 <br> **ICLR 2022**
 <br>\[[paper link](https://openreview.net/pdf?id=EMigfE6ZeS)\]\[[arxiv](https://arxiv.org/abs/2110.04367)\]\[[code](https://github.com/HL-hanlin/HRF_ICLR2022)\]\[[talk](https://iclr.cc/virtual/2022/poster/6410)\]\[[slides](https://iclr.cc/media/iclr-2022/Slides/6410.pdf)\]
