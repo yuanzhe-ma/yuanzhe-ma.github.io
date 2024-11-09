@@ -14,11 +14,6 @@ I am a fourth-year PhD student in the Department of Operations Research at [Colu
 Broadly, my research develops models and algorithms for reliable and responsbile decision making tailored for modern operations. I use techniques from optimization, stochastic modeling, learning theory, and game theory.
  
  
-<h1 id="talks"> Recent Talks</h1>
-
-- 11/17/2023, Guest lecture (joint with Daksh Mittal) for the course [Advanced Machine Learning for Health and Medicine](https://reaim-lab.github.io/binf4008/), topic: uncertainty quantification for interpretability in deep learning
-- 11/10/2023, [Conference on Digital Experimentation @ MIT](https://ide.mit.edu/events/2023-conference-on-digital-experimentation-mit-codemit): two papers on user interests exploration (12-minute talk in Session J: “Personalization and Experimentation”) and causal inference under limited overlap.
-
 
 <h1 id="publications"> Papers</h1>
 
@@ -48,7 +43,7 @@ Here are my [Semantic](https://www.semanticscholar.org/author/Yuanzhe-Ma/2144051
 [Krzysztof Choromanski](https://research.google/people/krzysztofchoromanski/?&type=google)<sup>*</sup>, [Haoxian Chen](https://scholar.google.com/citations?user=yOUIELYAAAAJ&hl=en)<sup>*</sup>, 
 [Han Lin](https://hl-hanlin.github.io/)<sup>*</sup>, **Yuanzhe Ma<sup>*</sup>**, [Arijit Sehanobish](https://scholar.google.com/citations?user=MEby6-QAAAAJ&hl=en)<sup>*</sup>, [Deepali Jain](https://research.google/people/Deepali/), [Michael S Ryoo](http://michaelryoo.com/), [Jake Varley](https://scholar.google.com/citations?user=UJcm1MoAAAAJ&hl=en), [Andy Zeng](https://andyzeng.github.io/), [Valerii Likhosherstov](https://valerytyumen.github.io/), [Dmitry Kalashnikov](https://scholar.google.com/citations?user=2DBmo-wAAAAJ&hl=en), [Vikas Sindhwani](https://vikas.sindhwani.org/), [Adrian Weller](https://mlg.eng.cam.ac.uk/adrian/) 
 <br> **ICLR 2022**
-<br>\[[paper link](https://openreview.net/pdf?id=EMigfE6ZeS)\]\[[arxiv](https://arxiv.org/pdf/2110.04367)\]\[[code](https://github.com/HL-hanlin/HRF_ICLR2022)\]\[[talk](https://iclr.cc/virtual/2022/poster/6410)\]\[[slides](https://iclr.cc/media/iclr-2022/Slides/6410.pdf)\]
+<br>\[[paper link](https://openreview.net/pdf?id=EMigfE6ZeS)\]\[[code](https://github.com/HL-hanlin/HRF_ICLR2022)\]\[[talk](https://iclr.cc/virtual/2022/poster/6410)\]\[[slides](https://iclr.cc/media/iclr-2022/Slides/6410.pdf)\]
 
 <h1 id="courses"> Courses </h1>
 
