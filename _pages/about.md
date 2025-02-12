@@ -20,10 +20,10 @@ Broadly, my research develops models and algorithms for reliable and responsbile
 Here are my [Semantic](https://www.semanticscholar.org/author/Yuanzhe-Ma/2144051894) and [Google](https://scholar.google.com/citations?user=4d8UV8sAAAAJ) scholar profiles.
 
 
-### **Adaptive Labeling for Efficient Out-of-distribution Model Evaluation**
+### **A Planning Framework for Adaptive Labeling**
 [Daksh Mittal](https://sites.google.com/view/dakshmittal/home)<sup>*</sup>,  **Yuanzhe Ma<sup>*</sup>**, [Shalmali Joshi](https://shalmalijoshi.github.io/reAIM/), [Hongseok Namkoong](https://hsnamkoong.github.io/)
-<br> **NeurIPS 2024**
-<br>\[[paper link](https://openreview.net/pdf?id=uuQQwrjMzb)\]
+<br> Short version appears at **NeurIPS 2024**, long version under review
+<br>\[[NeurIPS 2024 version](https://openreview.net/pdf?id=uuQQwrjMzb)\]\[[arxiv](https://arxiv.org/pdf/2502.06076)\]\[[code](https://github.com/namkoong-lab/adaptive-labeling)\]
 
 
 ### **Transient Analysis of the Join-the-Shortest-Queue System**
