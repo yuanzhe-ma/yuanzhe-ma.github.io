@@ -22,12 +22,13 @@ Here are my [Semantic](https://www.semanticscholar.org/author/Yuanzhe-Ma/2144051
 
 ### **A Planning Framework for Adaptive Labeling**
 [Daksh Mittal](https://sites.google.com/view/dakshmittal/home)<sup>*</sup>,  **Yuanzhe Ma<sup>*</sup>**, [Shalmali Joshi](https://shalmalijoshi.github.io/reAIM/), [Hongseok Namkoong](https://hsnamkoong.github.io/)
-<br> Short version appears at **NeurIPS 2024**, long version under review
-<br>\[[NeurIPS 2024 version](https://openreview.net/pdf?id=uuQQwrjMzb)\]\[[arxiv](https://arxiv.org/pdf/2502.06076)\]\[[code](https://github.com/namkoong-lab/adaptive-labeling)\]
+<br> Short version appears at **NeurIPS 2024**, journal version under review
+<br>\[[NeurIPS 2024 version](https://openreview.net/pdf?id=uuQQwrjMzb)\] \[[arxiv](https://arxiv.org/pdf/2502.06076)\] \[[code](https://github.com/namkoong-lab/adaptive-labeling)\]
 
 
-### **Transient Analysis of the Join-the-Shortest-Queue System**
+### **Convergence Rate Analysis of the Join-the-Shortest-Queue System**
 **Yuanzhe Ma**, [Siva Theja Maguluri](https://sites.google.com/site/sivatheja/home?authuser=0)
+<br>\[[arxiv](https://arxiv.org/pdf/2503.15736)\]
 
 ### **The Distributional Effects of “Fulfilled By Amazon” (FBA)**
 [Garud Iyengar](http://www.columbia.edu/~gi10/)<sup>*</sup>, **Yuanzhe Ma<sup>*</sup>**, [Thomas J. Rivera](https://sites.google.com/site/thomasjriveraecon/home)<sup>*</sup>, [Fahad Saleh](https://www.fahadsaleh.com/)<sup>*</sup>, 
@@ -36,14 +37,14 @@ Here are my [Semantic](https://www.semanticscholar.org/author/Yuanzhe-Ma/2144051
 
 ### **Minimax Optimal Estimation of Stability Under Distribution Shift** 
 [Hongseok Namkoong](https://hsnamkoong.github.io/)<sup>*</sup>, **Yuanzhe Ma<sup>*</sup>**, [Peter W. Glynn](https://web.stanford.edu/~glynn/) 
-<br>\[[arxiv](https://arxiv.org/pdf/2212.06338)\]
-<br> Minor revision, **Operations Research**
+<br>\[[arxiv](https://arxiv.org/pdf/2212.06338)\] \[[code](https://github.com/namkoong-lab/stability_estimation)\]
+<br> To appear, **Operations Research**
 
 ### **Hybrid Random Features** 
 [Krzysztof Choromanski](https://research.google/people/krzysztofchoromanski/?&type=google)<sup>*</sup>, [Haoxian Chen](https://scholar.google.com/citations?user=yOUIELYAAAAJ&hl=en)<sup>*</sup>, 
 [Han Lin](https://hl-hanlin.github.io/)<sup>*</sup>, **Yuanzhe Ma<sup>*</sup>**, [Arijit Sehanobish](https://scholar.google.com/citations?user=MEby6-QAAAAJ&hl=en)<sup>*</sup>, [Deepali Jain](https://research.google/people/Deepali/), [Michael S Ryoo](http://michaelryoo.com/), [Jake Varley](https://scholar.google.com/citations?user=UJcm1MoAAAAJ&hl=en), [Andy Zeng](https://andyzeng.github.io/), [Valerii Likhosherstov](https://valerytyumen.github.io/), [Dmitry Kalashnikov](https://scholar.google.com/citations?user=2DBmo-wAAAAJ&hl=en), [Vikas Sindhwani](https://vikas.sindhwani.org/), [Adrian Weller](https://mlg.eng.cam.ac.uk/adrian/) 
 <br> **ICLR 2022**
-<br>\[[paper link](https://openreview.net/pdf?id=EMigfE6ZeS)\]\[[code](https://github.com/HL-hanlin/HRF_ICLR2022)\]\[[talk](https://iclr.cc/virtual/2022/poster/6410)\]\[[slides](https://iclr.cc/media/iclr-2022/Slides/6410.pdf)\]
+<br>\[[paper link](https://openreview.net/pdf?id=EMigfE6ZeS)\] \[[code](https://github.com/HL-hanlin/HRF_ICLR2022)\]  
 
 <h1 id="courses"> Courses </h1>
 
