@@ -37,8 +37,8 @@ Here are my [Semantic](https://www.semanticscholar.org/author/Yuanzhe-Ma/2144051
 
 ### **Minimax Optimal Estimation of Stability Under Distribution Shift** 
 [Hongseok Namkoong](https://hsnamkoong.github.io/)<sup>*</sup>, **Yuanzhe Ma<sup>*</sup>**, [Peter W. Glynn](https://web.stanford.edu/~glynn/) 
-<br>\[[arxiv](https://arxiv.org/pdf/2212.06338)\] \[[code](https://github.com/namkoong-lab/stability_estimation)\]
-<br> To appear, **Operations Research**
+<br> \[[paper link](https://doi.org/10.1287/opre.2022.0658) \] \[[arxiv](https://arxiv.org/pdf/2212.06338)\] \[[code](https://github.com/namkoong-lab/stability_estimation)\]
+<br> **Operations Research**
 
 ### **Hybrid Random Features** 
 [Krzysztof Choromanski](https://research.google/people/krzysztofchoromanski/?&type=google)<sup>*</sup>, [Haoxian Chen](https://scholar.google.com/citations?user=yOUIELYAAAAJ&hl=en)<sup>*</sup>, 
