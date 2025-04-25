@@ -19,6 +19,11 @@ Broadly, my research develops models and algorithms for reliable and responsbile
 
 Here are my [Semantic](https://www.semanticscholar.org/author/Yuanzhe-Ma/2144051894) and [Google](https://scholar.google.com/citations?user=4d8UV8sAAAAJ) scholar profiles.
 
+### **User Engagement Maximization Through Preference Switching**
+[Garud Iyengar](http://www.columbia.edu/~gi10/)<sup>*</sup>, **Yuanzhe Ma<sup>*</sup>**, 
+[Jay Sethuraman](https://www.engineering.columbia.edu/faculty-staff/directory/jay-sethuraman)<sup>*</sup>  
+\[[SSRN](https://ssrn.com/abstract=5230517)\]
+
 
 ### **A Planning Framework for Adaptive Labeling**
 [Daksh Mittal](https://sites.google.com/view/dakshmittal/home)<sup>*</sup>,  **Yuanzhe Ma<sup>*</sup>**, [Shalmali Joshi](https://shalmalijoshi.github.io/reAIM/), [Hongseok Namkoong](https://hsnamkoong.github.io/)
