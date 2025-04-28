@@ -13,23 +13,14 @@ I am a fourth-year PhD student in the Department of Operations Research at [Colu
 
 Broadly, my research develops models and algorithms for reliable and responsbile decision making tailored for modern operations. I use techniques from optimization, stochastic modeling, learning theory, and game theory.
  
- 
-
-<h1 id="publications"> Papers</h1>
-
 Here are my [Semantic](https://www.semanticscholar.org/author/Yuanzhe-Ma/2144051894) and [Google](https://scholar.google.com/citations?user=4d8UV8sAAAAJ) scholar profiles.
+
+<h1 id="publications"> Working Papers</h1>
 
 ### **User Engagement Maximization Through Preference Switching**
 [Garud Iyengar](http://www.columbia.edu/~gi10/)<sup>*</sup>, **Yuanzhe Ma<sup>*</sup>**, 
 [Jay Sethuraman](https://www.engineering.columbia.edu/faculty-staff/directory/jay-sethuraman)<sup>*</sup>  
 \[[SSRN](https://ssrn.com/abstract=5230517)\]
-
-
-### **A Planning Framework for Adaptive Labeling**
-[Daksh Mittal](https://sites.google.com/view/dakshmittal/home)<sup>*</sup>,  **Yuanzhe Ma<sup>*</sup>**, [Shalmali Joshi](https://shalmalijoshi.github.io/reAIM/), [Hongseok Namkoong](https://hsnamkoong.github.io/)
-<br> Short version appears at **NeurIPS 2024**, journal version under review
-<br>\[[NeurIPS 2024 version](https://openreview.net/pdf?id=uuQQwrjMzb)\] \[[arxiv](https://arxiv.org/pdf/2502.06076)\] \[[code](https://github.com/namkoong-lab/adaptive-labeling)\]
-
 
 ### **Convergence Rate Analysis of the Join-the-Shortest-Queue System**
 **Yuanzhe Ma**, [Siva Theja Maguluri](https://sites.google.com/site/sivatheja/home?authuser=0)
@@ -40,10 +31,18 @@ Here are my [Semantic](https://www.semanticscholar.org/author/Yuanzhe-Ma/2144051
 [Jay Sethuraman](https://www.engineering.columbia.edu/faculty-staff/directory/jay-sethuraman)<sup>*</sup>  
 \[[SSRN](https://ssrn.com/abstract=4365855)\]
 
+<h1 id="publications"> Publications </h1>
+
 ### **Minimax Optimal Estimation of Stability Under Distribution Shift** 
 [Hongseok Namkoong](https://hsnamkoong.github.io/)<sup>*</sup>, **Yuanzhe Ma<sup>*</sup>**, [Peter W. Glynn](https://web.stanford.edu/~glynn/) 
 <br> \[[paper link](https://doi.org/10.1287/opre.2022.0658) \] \[[arxiv](https://arxiv.org/pdf/2212.06338)\] \[[code](https://github.com/namkoong-lab/stability_estimation)\]
 <br> **Operations Research**
+
+### **A Planning Framework for Adaptive Labeling**
+[Daksh Mittal](https://sites.google.com/view/dakshmittal/home)<sup>*</sup>,  **Yuanzhe Ma<sup>*</sup>**, [Shalmali Joshi](https://shalmalijoshi.github.io/reAIM/), [Hongseok Namkoong](https://hsnamkoong.github.io/)
+<br> Short version appears at **NeurIPS 2024**, journal version under review
+<br>\[[NeurIPS 2024 version](https://openreview.net/pdf?id=uuQQwrjMzb)\] \[[arxiv](https://arxiv.org/pdf/2502.06076)\] \[[code](https://github.com/namkoong-lab/adaptive-labeling)\]
+
 
 ### **Hybrid Random Features** 
 [Krzysztof Choromanski](https://research.google/people/krzysztofchoromanski/?&type=google)<sup>*</sup>, [Haoxian Chen](https://scholar.google.com/citations?user=yOUIELYAAAAJ&hl=en)<sup>*</sup>, 
