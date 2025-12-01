@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD student in the Department of Operations Research at [Columbia University](https://www.ieor.columbia.edu/). I am very fortunate to work with Prof. [Garud Iyengar](http://www.columbia.edu/~gi10/), Prof. [Jay Sethuraman](https://www.ieor.columbia.edu/faculty/jay-sethuraman), and Prof. [Hongseok Namkoong](https://hsnamkoong.github.io/). From 2019 to 2021, I spent two years at [Georgia Tech ISyE](https://www.isye.gatech.edu/) as a graduate student studying statistics and mathematics. I also completed an undergraduate degree in economics from East China Normal University, while working full-time (joined in 2016 as a founding member) at a FinTech startup (NASDAQ: QFIN and HKEX:3660) in China, focusing on ML problems.
+I am a fifth-year PhD student in the Department of Operations Research at [Columbia University](https://www.ieor.columbia.edu/). I am very fortunate to work with Prof. [Garud Iyengar](http://www.columbia.edu/~gi10/), Prof. [Jay Sethuraman](https://www.ieor.columbia.edu/faculty/jay-sethuraman), and Prof. [Hongseok Namkoong](https://hsnamkoong.github.io/). From 2019 to 2021, I spent two years at [Georgia Tech ISyE](https://www.isye.gatech.edu/) as a graduate student studying statistics and mathematics. I also completed an undergraduate degree in economics from East China Normal University, while working full-time (joined in 2016 as a founding member) at a FinTech startup (NASDAQ: QFIN and HKEX:3660) in China, focusing on ML problems.
 
 
 Broadly, my research develops models and algorithms for reliable and responsbile decision making tailored for modern operations. I use techniques from optimization, stochastic modeling, learning theory, and game theory.
