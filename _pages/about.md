@@ -17,6 +17,16 @@ Here are my [Semantic](https://www.semanticscholar.org/author/Yuanzhe-Ma/2144051
 
 <h1 id="publications"> Working Papers</h1>
 
+### **A Sensitivity Approach to Causal Inference Under Limited Overlap**
+**Yuanzhe Ma**, [Hongseok Namkoong](https://hsnamkoong.github.io/)
+<br>\[[arxiv](https://arxiv.org/pdf/2511.22003)\]
+
+
+### **The Ineffectiveness of Antibundling Regulation**
+[Garud Iyengar](http://www.columbia.edu/~gi10/)<sup>*</sup>, **Yuanzhe Ma<sup>*</sup>**, [Fahad Saleh](https://www.fahadsaleh.com/)<sup>*</sup>, 
+[Jay Sethuraman](https://www.engineering.columbia.edu/faculty-staff/directory/jay-sethuraman)<sup>*</sup>  
+\[[SSRN](https://ssrn.com/abstract=4365855)\]
+
 ### **User Engagement Maximization Through Preference Switching**
 [Garud Iyengar](http://www.columbia.edu/~gi10/)<sup>*</sup>, **Yuanzhe Ma<sup>*</sup>**, 
 [Jay Sethuraman](https://www.engineering.columbia.edu/faculty-staff/directory/jay-sethuraman)<sup>*</sup>  
