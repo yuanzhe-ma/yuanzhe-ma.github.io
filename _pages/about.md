@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Research Scientist at Meta, where I apply modern machine learning and generative AI techniques to improve ads ranking systems for Facebook.
 
-I earned my Ph.D. from the Department of Operations Research at Columbia University(https://www.ieor.columbia.edu/). I was very fortunate to work with Prof. [Garud Iyengar](http://www.columbia.edu/~gi10/), Prof. [Jay Sethuraman](https://www.ieor.columbia.edu/faculty/jay-sethuraman), and Prof. [Hongseok Namkoong](https://hsnamkoong.github.io/). My research sit at the intersection of machine learning, optimization, and decision-making under uncertainty. I develop models and algorithms that enable AI-driven systems to make reliable and responsible decisions in complex, data-rich environments.
+I earned my Ph.D. from the Department of Operations Research at [Columbia University](https://www.ieor.columbia.edu/). I was very fortunate to work with Prof. [Garud Iyengar](http://www.columbia.edu/~gi10/), Prof. [Jay Sethuraman](https://www.ieor.columbia.edu/faculty/jay-sethuraman), and Prof. [Hongseok Namkoong](https://hsnamkoong.github.io/). My research sit at the intersection of machine learning, optimization, and decision-making under uncertainty. I develop models and algorithms that enable AI-driven systems to make reliable and responsible decisions in complex, data-rich environments.
 
 
 From 2019 to 2021, I spent two years at [Georgia Tech ISyE](https://www.isye.gatech.edu/) as a graduate student studying statistics and mathematics. I also completed an undergraduate degree in economics from East China Normal University, while working full-time (joined in 2016 as a founding member) at a FinTech startup (NASDAQ: QFIN) in China, focusing on ML problems.
