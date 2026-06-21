@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuanzhe Ma"
 title_separator          : "-"
 name                     : &name "Yuanzhe Ma"
-description              : &description "PhD Student at Columbia University"
+description              : &description "Research Scientist at Meta"
 url                      : https://yuanzhe-ma.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yuanzhe-ma/yuanzhe-ma.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuanzhe Ma"
   avatar           : "Yuanzhe-picture.jpg"
-  bio              : "PhD candidate in Operations Research at Columbia University"
+  bio              : "Research Scientist at Meta"
   location         : "New York, NY"
   employer         :
   pubmed           : 
