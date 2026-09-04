@@ -21,6 +21,11 @@ Here are my [Semantic](https://www.semanticscholar.org/author/Yuanzhe-Ma/2144051
 
 <h1 id="publications"> Working Papers</h1>
 
+### **Assortment and Procurement Design in Dual-Mode Content Platforms**
+[Garud Iyengar](http://www.columbia.edu/~gi10/)<sup>*</sup>, **Yuanzhe Ma<sup>*</sup>**, 
+[Jay Sethuraman](https://www.engineering.columbia.edu/faculty-staff/directory/jay-sethuraman)<sup>*</sup>  
+<br>\[[arxiv](https://arxiv.org/pdf/2609.03285)\]
+
 ### **A Sensitivity Approach to Causal Inference Under Limited Overlap**
 **Yuanzhe Ma**, Yian Huang, [Hongseok Namkoong](https://hsnamkoong.github.io/)
 <br>\[[arxiv](https://arxiv.org/pdf/2511.22003)\]
@@ -36,9 +41,6 @@ Here are my [Semantic](https://www.semanticscholar.org/author/Yuanzhe-Ma/2144051
 [Jay Sethuraman](https://www.engineering.columbia.edu/faculty-staff/directory/jay-sethuraman)<sup>*</sup>  
 \[[SSRN](https://ssrn.com/abstract=5230517)\]
 
-### **Convergence Rate Analysis of the Join-the-Shortest-Queue System**
-**Yuanzhe Ma**, [Siva Theja Maguluri](https://sites.google.com/site/sivatheja/home?authuser=0)
-<br>\[[arxiv](https://arxiv.org/pdf/2503.15736)\]
 
 ### **The Distributional Effects of “Fulfilled By Amazon” (FBA)**
 [Garud Iyengar](http://www.columbia.edu/~gi10/)<sup>*</sup>, **Yuanzhe Ma<sup>*</sup>**, [Thomas J. Rivera](https://sites.google.com/site/thomasjriveraecon/home)<sup>*</sup>, [Fahad Saleh](https://www.fahadsaleh.com/)<sup>*</sup>, 
@@ -51,6 +53,11 @@ Here are my [Semantic](https://www.semanticscholar.org/author/Yuanzhe-Ma/2144051
 [Hongseok Namkoong](https://hsnamkoong.github.io/)<sup>*</sup>, **Yuanzhe Ma<sup>*</sup>**, [Peter W. Glynn](https://web.stanford.edu/~glynn/) 
 <br> \[[paper link](https://doi.org/10.1287/opre.2022.0658) \] \[[arxiv](https://arxiv.org/pdf/2212.06338)\] \[[code](https://github.com/namkoong-lab/stability_estimation)\]
 <br> **Operations Research**
+
+### **Convergence Rate of the Join-the-Shortest-Queue System**
+**Yuanzhe Ma**, [Siva Theja Maguluri](https://sites.google.com/site/sivatheja/home?authuser=0)
+<br>\[[arxiv](https://arxiv.org/pdf/2503.15736)\]
+<br> **Journal of Applied Probability**
 
 ### **A Planning Framework for Adaptive Labeling**
 [Daksh Mittal](https://sites.google.com/view/dakshmittal/home)<sup>*</sup>,  **Yuanzhe Ma<sup>*</sup>**, [Shalmali Joshi](https://shalmalijoshi.github.io/reAIM/), [Hongseok Namkoong](https://hsnamkoong.github.io/)
