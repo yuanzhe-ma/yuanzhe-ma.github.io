@@ -24,7 +24,7 @@ Here are my [Semantic](https://www.semanticscholar.org/author/Yuanzhe-Ma/2144051
 ### **Assortment and Procurement Design in Dual-Mode Content Platforms**
 [Garud Iyengar](http://www.columbia.edu/~gi10/)<sup>*</sup>, **Yuanzhe Ma<sup>*</sup>**, 
 [Jay Sethuraman](https://www.engineering.columbia.edu/faculty-staff/directory/jay-sethuraman)<sup>*</sup>  
-<br>\[[arxiv](https://arxiv.org/pdf/2609.03285)\]
+\[[arxiv](https://arxiv.org/pdf/2609.03285)\]
 
 ### **A Sensitivity Approach to Causal Inference Under Limited Overlap**
 **Yuanzhe Ma**, Yian Huang, [Hongseok Namkoong](https://hsnamkoong.github.io/)
