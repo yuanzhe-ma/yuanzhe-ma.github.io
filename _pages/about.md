@@ -34,6 +34,7 @@ Here are my [Semantic](https://www.semanticscholar.org/author/Yuanzhe-Ma/2144051
 [Garud Iyengar](http://www.columbia.edu/~gi10/)<sup>*</sup>, **Yuanzhe Ma<sup>*</sup>**, [Fahad Saleh](https://www.fahadsaleh.com/)<sup>*</sup>, 
 [Jay Sethuraman](https://www.engineering.columbia.edu/faculty-staff/directory/jay-sethuraman)<sup>*</sup>  
 \[[SSRN](https://ssrn.com/abstract=5614773)\]
+<br>Major Revision at Management Science
 
  
 ### **User Engagement Maximization Through Preference Switching**
