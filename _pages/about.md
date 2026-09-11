@@ -57,7 +57,7 @@ Here are my [Semantic](https://www.semanticscholar.org/author/Yuanzhe-Ma/2144051
 
 ### **Convergence Rate of the Join-the-Shortest-Queue System**
 **Yuanzhe Ma**, [Siva Theja Maguluri](https://sites.google.com/site/sivatheja/home?authuser=0)
-<br>\[[arxiv](https://arxiv.org/pdf/2503.15736)\]
+<br>\[[paper link](https://doi.org/10.1017/jpr.2026.10130)\] \[[arxiv](https://arxiv.org/pdf/2503.15736)\]
 <br> **Journal of Applied Probability**
 
 ### **A Planning Framework for Adaptive Labeling**
